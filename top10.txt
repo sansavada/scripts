@@ -1,0 +1,10 @@
+      9  emacs sanL03.cpp
+     10  emacs sanL04.cpp
+     11  cd cs215s14/
+     17  logout
+     18  g++ sanP1.cpp -o P1.out -g
+     20  cd ..
+    100  ./P1.out
+    112  ls
+    123  g++ -g sanP1.cpp -o P1.out
+    145  emacs sanP1.cpp
